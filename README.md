@@ -135,9 +135,9 @@
 
 ## HOW TO DEPLOY THIS PROJECT
 - $ npm run build
-- Heroku
+- HEROKU
    - Tutorial In development
-- AWS
+- DIGITAL OCEAN
    - Tutorial In development
 
 ## DATABASE
